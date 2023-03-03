@@ -33,7 +33,7 @@ const GetStarted = () => (
         variants={fadeIn("left", "tween", 0.2, 1)}
         className="flex-[0.75] flex justify-center flex-col"
       >
-        <TypingText title="| " />
+        <TypingText title="" />
         <TitleText title={<>The AI Genius Way: Three Simple Steps  </>} />
         <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px]">
           {startingFeatures.map((feature, index) => (

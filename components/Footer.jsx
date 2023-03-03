@@ -32,7 +32,7 @@ const Footer = () => (
     }
   >
     <span className="font-normal text-[16px] text-white">
-      Enter AI Genius
+      Book a Consulation 
     </span>
   </button>
 </div>
