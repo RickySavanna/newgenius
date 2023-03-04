@@ -29,7 +29,7 @@ const About = () => (
         include{" "}
         <span className="font-extrabold text-white">  AI-powered </span> content creation, automated social media marketing, and predictive analysis. We believe in transparency, innovation, and community involvement, which is why we donate a portion of our sales to non-profits. 
         Our goal is to help businesses unlock the full potential of {" "}
-        <span className="font-extrabold text-white">AI Technology</span>and drive growth and success.
+        <span className="font-extrabold text-white">AI Technology</span> to drive growth and success.
       </motion.p>
 
       <motion.img
