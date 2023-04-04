@@ -20,7 +20,7 @@ const About = () => (
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[10px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white "
       >
-        <span className="font-extrabold text-white">AI Genius</span> is a leading provider of AI services for businesses of all sizes and industries. 
+        <span className="font-extrabold text-white">AI Genius</span> is a leading provider of  AI Implementation Consulting for businesses of all sizes and industries. 
         Our team of experienced professionals specializes in developing customized solutions that meet the unique needs of our clients. {" "}
         <span className="font-extrabold text-white">
           {" "}
