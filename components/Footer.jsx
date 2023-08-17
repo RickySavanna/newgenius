@@ -26,7 +26,7 @@ const Footer = () => (
     className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]"
     onClick={() =>
       window.open(
-        "https://calendly.com/geniusmediamarketing/geniusmeeting30min?month=2023-03",
+        "https://calendly.com/rsavanna/free-consultation?month=2023-07",
         "_blank"
       )
     }
