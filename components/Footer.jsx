@@ -41,9 +41,9 @@ const Footer = () => (
           <div className="mb-[50px] h-[2px] bg-white opacity-10" />
 
           <div className="flex items-center justify-between flex-wrap gap-4">
-            <h4 className="font-extrabold text-[24px] text-white">AI Genius</h4>
+            <h4 className="font-extrabold text-[24px] text-white">Rsavanna Consulting</h4>
             <p className="font-normal text-[14px] text-white opacity-50">
-              Copyright © 2022 - 2023 AI Genius All rights reserved.
+              Copyright © 2022 - 2023 Rsavanna Consulting All rights reserved.
             </p>
 
             <div className="flex gap-4">

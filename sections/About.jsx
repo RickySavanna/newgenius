@@ -14,13 +14,13 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title=" About AI Genius" textStyles="text-center" />
+      <TypingText title=" About Rsavanna Consulting" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[10px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white "
       >
-        <span className="font-extrabold text-white">AI Genius</span> is a leading provider of  AI Implementation Consulting for businesses of all sizes and industries. 
+        <span className="font-extrabold text-white">Rsavanna Consulting</span> is a leading provider of  AI Implementation Consulting for businesses of all sizes and industries. 
         Our team of experienced professionals specializes in developing customized solutions that meet the unique needs of our clients. {" "}
         <span className="font-extrabold text-white">
           {" "}

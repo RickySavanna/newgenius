@@ -17,7 +17,7 @@ export const exploreWorlds = [
   {
     id: "world-1",
     imgUrl: Planet_1,
-    title: " AI Implementation Consulting",
+    title: " AI Implementation",
   },
   {
     id: "world-2",
@@ -32,7 +32,7 @@ export const exploreWorlds = [
   {
     id: "world-4",
     imgUrl: Planet_4,
-    title: "AI Powered Content Creation",
+    title: "AI Powered Content/Scripts ",
   },
 
 ];
@@ -59,7 +59,7 @@ export const insights = [
     imgUrl: Planet_5,
     title: "Human-Machine Collaboration",
     subtitle:
-      "At AI Genius, we believe in the power of human-machine collaboration. Our AI solutions are designed to work seamlessly with humans, enhancing their capabilities and enabling them to achieve more than ever before. With our innovative technology and human expertise, we're helping businesses and individuals unlock their full potential.",
+      "At Rsavanna Consulting, we believe in the power of human-machine collaboration. Our AI solutions are designed to work seamlessly with humans, enhancing their capabilities and enabling them to achieve more than ever before. With our innovative technology and human expertise, we're helping businesses and individuals unlock their full potential.",
   },
 
 ];
